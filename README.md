@@ -59,14 +59,20 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jasujon570&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasujon570&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jasujon570&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasujon570&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jasujon570&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasujon570&theme=tokyonight" alt="GitHub Streak" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
