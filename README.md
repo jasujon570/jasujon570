@@ -6,9 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Frontend+to+Backend+—+My+MERN+Stack+Journey;Aspiring+Full+Stack+Developer;Passionate+about+Web+Development" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasujon570&label=Profile%20Views&color=blue&style=flat" />
-</p>
+---
+
+## 🧑‍💻 About Me
+
+🌟 I'm a passionate MERN Stack learner, focused on building modern and user-friendly web applications.  
+💻 I enjoy working with HTML, CSS, Tailwind, JavaScript, React, Node.js, Express.js, and MongoDB.  
+🚀 Currently improving my backend and API development skills to become a full-stack developer.  
+🎯 My goal is to build real-world projects, contribute to open source, and grow as a problem-solver.  
+📚 I believe in learning by doing and constantly exploring new technologies.
 
 ---
 
@@ -74,3 +80,10 @@
 ### 🚀 "Code. Learn. Improve. Repeat."
 <p align="center">Thanks for visiting my profile! 😄</p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasujon570&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
